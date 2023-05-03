@@ -3,6 +3,7 @@
 
 #IDE
 *.vscode/
+*.vscode
 
 # Compiled Object files
 *.slo
