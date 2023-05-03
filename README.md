@@ -9,6 +9,6 @@ time complexity, but for the sake of this program we are
 assuming that not very large inputs will be applied at any
 given time. 
 
-Compile commane: g++ whale.cpp
+Compile command: g++ whale.cpp
 
 Execution: ./a.out
